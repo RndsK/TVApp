@@ -23,7 +23,7 @@ Launch the TV emulator.
 
 DPAD: arrow keys = navigate, Enter/Space = select, Esc/Backspace = back.
 
-Libraries Used & Why
+# Libraries Used & Why
 @react-navigation/native + @react-navigation/native-stack — simple stack navigation suitable for TV.
 
 react-native-video — ExoPlayer-based video playback (play/pause/seek/HUD).
@@ -36,13 +36,11 @@ react-native-vector-icons — icon support (optional).
 
 jest, @testing-library/react-native, @testing-library/jest-native — unit/integration tests.
 
-Tests
+# Tests
 Run all tests:
 
 npm test
 
 
-Recording 
-<video src="./20250917-2201-19.7261648.mp4?raw=1" width="800" controls muted playsinline></video>
 
 
